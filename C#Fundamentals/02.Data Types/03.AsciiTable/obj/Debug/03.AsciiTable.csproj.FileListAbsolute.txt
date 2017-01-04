@@ -1,0 +1,6 @@
+C:\Users\Bari\Downloads\Desktop\14.10.2016\03.AsciiTable\bin\Debug\03.AsciiTable.exe.config
+C:\Users\Bari\Downloads\Desktop\14.10.2016\03.AsciiTable\bin\Debug\03.AsciiTable.exe
+C:\Users\Bari\Downloads\Desktop\14.10.2016\03.AsciiTable\bin\Debug\03.AsciiTable.pdb
+C:\Users\Bari\Downloads\Desktop\14.10.2016\03.AsciiTable\obj\Debug\03.AsciiTable.csprojResolveAssemblyReference.cache
+C:\Users\Bari\Downloads\Desktop\14.10.2016\03.AsciiTable\obj\Debug\03.AsciiTable.exe
+C:\Users\Bari\Downloads\Desktop\14.10.2016\03.AsciiTable\obj\Debug\03.AsciiTable.pdb

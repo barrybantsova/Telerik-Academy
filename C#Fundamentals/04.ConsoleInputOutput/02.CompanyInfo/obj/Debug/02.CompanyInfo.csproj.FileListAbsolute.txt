@@ -1,0 +1,6 @@
+C:\Users\Bari\Downloads\Desktop\04.ConsoleInputOutput\02.CompanyInfo\bin\Debug\02.CompanyInfo.exe.config
+C:\Users\Bari\Downloads\Desktop\04.ConsoleInputOutput\02.CompanyInfo\bin\Debug\02.CompanyInfo.exe
+C:\Users\Bari\Downloads\Desktop\04.ConsoleInputOutput\02.CompanyInfo\bin\Debug\02.CompanyInfo.pdb
+C:\Users\Bari\Downloads\Desktop\04.ConsoleInputOutput\02.CompanyInfo\obj\Debug\02.CompanyInfo.csprojResolveAssemblyReference.cache
+C:\Users\Bari\Downloads\Desktop\04.ConsoleInputOutput\02.CompanyInfo\obj\Debug\02.CompanyInfo.exe
+C:\Users\Bari\Downloads\Desktop\04.ConsoleInputOutput\02.CompanyInfo\obj\Debug\02.CompanyInfo.pdb

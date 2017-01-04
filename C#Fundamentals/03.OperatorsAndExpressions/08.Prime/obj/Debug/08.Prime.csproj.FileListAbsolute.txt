@@ -1,0 +1,6 @@
+C:\Users\Bari\Downloads\Desktop\ТELERIK\C#\03.OperatorsAndExpressions\08.Prime\bin\Debug\08.Prime.exe.config
+C:\Users\Bari\Downloads\Desktop\ТELERIK\C#\03.OperatorsAndExpressions\08.Prime\bin\Debug\08.Prime.exe
+C:\Users\Bari\Downloads\Desktop\ТELERIK\C#\03.OperatorsAndExpressions\08.Prime\bin\Debug\08.Prime.pdb
+C:\Users\Bari\Downloads\Desktop\ТELERIK\C#\03.OperatorsAndExpressions\08.Prime\obj\Debug\08.Prime.csprojResolveAssemblyReference.cache
+C:\Users\Bari\Downloads\Desktop\ТELERIK\C#\03.OperatorsAndExpressions\08.Prime\obj\Debug\08.Prime.exe
+C:\Users\Bari\Downloads\Desktop\ТELERIK\C#\03.OperatorsAndExpressions\08.Prime\obj\Debug\08.Prime.pdb

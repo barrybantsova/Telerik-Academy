@@ -1,0 +1,6 @@
+C:\Users\Bari\Downloads\Desktop\05.ConditonalStatemants\01.ExchangeNums\bin\Debug\01.ExchangeNums.exe.config
+C:\Users\Bari\Downloads\Desktop\05.ConditonalStatemants\01.ExchangeNums\bin\Debug\01.ExchangeNums.exe
+C:\Users\Bari\Downloads\Desktop\05.ConditonalStatemants\01.ExchangeNums\bin\Debug\01.ExchangeNums.pdb
+C:\Users\Bari\Downloads\Desktop\05.ConditonalStatemants\01.ExchangeNums\obj\Debug\01.ExchangeNums.csprojResolveAssemblyReference.cache
+C:\Users\Bari\Downloads\Desktop\05.ConditonalStatemants\01.ExchangeNums\obj\Debug\01.ExchangeNums.exe
+C:\Users\Bari\Downloads\Desktop\05.ConditonalStatemants\01.ExchangeNums\obj\Debug\01.ExchangeNums.pdb

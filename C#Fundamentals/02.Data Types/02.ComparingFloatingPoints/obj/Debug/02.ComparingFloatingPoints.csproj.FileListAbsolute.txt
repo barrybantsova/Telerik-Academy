@@ -1,0 +1,6 @@
+C:\Users\Bari\Downloads\Desktop\14.10.2016\02.ComparingFloatingPoints\bin\Debug\02.ComparingFloatingPoints.exe.config
+C:\Users\Bari\Downloads\Desktop\14.10.2016\02.ComparingFloatingPoints\bin\Debug\02.ComparingFloatingPoints.exe
+C:\Users\Bari\Downloads\Desktop\14.10.2016\02.ComparingFloatingPoints\bin\Debug\02.ComparingFloatingPoints.pdb
+C:\Users\Bari\Downloads\Desktop\14.10.2016\02.ComparingFloatingPoints\obj\Debug\02.ComparingFloatingPoints.csprojResolveAssemblyReference.cache
+C:\Users\Bari\Downloads\Desktop\14.10.2016\02.ComparingFloatingPoints\obj\Debug\02.ComparingFloatingPoints.exe
+C:\Users\Bari\Downloads\Desktop\14.10.2016\02.ComparingFloatingPoints\obj\Debug\02.ComparingFloatingPoints.pdb

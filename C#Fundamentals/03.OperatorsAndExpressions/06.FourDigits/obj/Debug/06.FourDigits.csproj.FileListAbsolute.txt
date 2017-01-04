@@ -1,0 +1,6 @@
+C:\Users\Bari\Downloads\Desktop\03.OperatorsAndExpressions\06.FourDigits\bin\Debug\06.FourDigits.exe.config
+C:\Users\Bari\Downloads\Desktop\03.OperatorsAndExpressions\06.FourDigits\bin\Debug\06.FourDigits.exe
+C:\Users\Bari\Downloads\Desktop\03.OperatorsAndExpressions\06.FourDigits\bin\Debug\06.FourDigits.pdb
+C:\Users\Bari\Downloads\Desktop\03.OperatorsAndExpressions\06.FourDigits\obj\Debug\06.FourDigits.exe
+C:\Users\Bari\Downloads\Desktop\03.OperatorsAndExpressions\06.FourDigits\obj\Debug\06.FourDigits.pdb
+C:\Users\Bari\Downloads\Desktop\03.OperatorsAndExpressions\06.FourDigits\obj\Debug\06.FourDigits.csprojResolveAssemblyReference.cache

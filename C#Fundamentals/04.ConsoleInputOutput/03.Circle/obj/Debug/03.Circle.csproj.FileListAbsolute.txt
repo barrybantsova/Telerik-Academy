@@ -1,0 +1,6 @@
+C:\Users\Bari\Downloads\Desktop\04.ConsoleInputOutput\03.Circle\bin\Debug\03.Circle.exe.config
+C:\Users\Bari\Downloads\Desktop\04.ConsoleInputOutput\03.Circle\bin\Debug\03.Circle.exe
+C:\Users\Bari\Downloads\Desktop\04.ConsoleInputOutput\03.Circle\bin\Debug\03.Circle.pdb
+C:\Users\Bari\Downloads\Desktop\04.ConsoleInputOutput\03.Circle\obj\Debug\03.Circle.csprojResolveAssemblyReference.cache
+C:\Users\Bari\Downloads\Desktop\04.ConsoleInputOutput\03.Circle\obj\Debug\03.Circle.exe
+C:\Users\Bari\Downloads\Desktop\04.ConsoleInputOutput\03.Circle\obj\Debug\03.Circle.pdb

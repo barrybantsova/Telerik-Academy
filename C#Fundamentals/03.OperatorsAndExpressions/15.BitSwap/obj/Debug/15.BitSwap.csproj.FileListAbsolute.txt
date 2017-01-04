@@ -1,0 +1,5 @@
+C:\Users\Bari\Downloads\Desktop\ТELERIK\C#\03.OperatorsAndExpressions\15.BitSwap\bin\Debug\15.BitSwap.exe.config
+C:\Users\Bari\Downloads\Desktop\ТELERIK\C#\03.OperatorsAndExpressions\15.BitSwap\bin\Debug\15.BitSwap.exe
+C:\Users\Bari\Downloads\Desktop\ТELERIK\C#\03.OperatorsAndExpressions\15.BitSwap\bin\Debug\15.BitSwap.pdb
+C:\Users\Bari\Downloads\Desktop\ТELERIK\C#\03.OperatorsAndExpressions\15.BitSwap\obj\Debug\15.BitSwap.exe
+C:\Users\Bari\Downloads\Desktop\ТELERIK\C#\03.OperatorsAndExpressions\15.BitSwap\obj\Debug\15.BitSwap.pdb

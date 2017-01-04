@@ -1,0 +1,5 @@
+C:\Users\Bari\Downloads\Desktop\05.ConditonalStatemants\05.BigestOf3\bin\Debug\05.BigestOf3.exe.config
+C:\Users\Bari\Downloads\Desktop\05.ConditonalStatemants\05.BigestOf3\bin\Debug\05.BigestOf3.exe
+C:\Users\Bari\Downloads\Desktop\05.ConditonalStatemants\05.BigestOf3\bin\Debug\05.BigestOf3.pdb
+C:\Users\Bari\Downloads\Desktop\05.ConditonalStatemants\05.BigestOf3\obj\Debug\05.BigestOf3.exe
+C:\Users\Bari\Downloads\Desktop\05.ConditonalStatemants\05.BigestOf3\obj\Debug\05.BigestOf3.pdb

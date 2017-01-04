@@ -1,0 +1,5 @@
+C:\Users\Bari\Downloads\Desktop\05.Loops\11.BinaryToDecimal\bin\Debug\11.BinaryToDecimal.exe.config
+C:\Users\Bari\Downloads\Desktop\05.Loops\11.BinaryToDecimal\bin\Debug\11.BinaryToDecimal.exe
+C:\Users\Bari\Downloads\Desktop\05.Loops\11.BinaryToDecimal\bin\Debug\11.BinaryToDecimal.pdb
+C:\Users\Bari\Downloads\Desktop\05.Loops\11.BinaryToDecimal\obj\Debug\11.BinaryToDecimal.exe
+C:\Users\Bari\Downloads\Desktop\05.Loops\11.BinaryToDecimal\obj\Debug\11.BinaryToDecimal.pdb

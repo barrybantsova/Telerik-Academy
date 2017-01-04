@@ -1,0 +1,6 @@
+C:\Users\Bari\Downloads\Desktop\03.OperatorsAndExpressions\05.ThirdDigit\bin\Debug\05.ThirdDigit.exe.config
+C:\Users\Bari\Downloads\Desktop\03.OperatorsAndExpressions\05.ThirdDigit\bin\Debug\05.ThirdDigit.exe
+C:\Users\Bari\Downloads\Desktop\03.OperatorsAndExpressions\05.ThirdDigit\bin\Debug\05.ThirdDigit.pdb
+C:\Users\Bari\Downloads\Desktop\03.OperatorsAndExpressions\05.ThirdDigit\obj\Debug\05.ThirdDigit.csprojResolveAssemblyReference.cache
+C:\Users\Bari\Downloads\Desktop\03.OperatorsAndExpressions\05.ThirdDigit\obj\Debug\05.ThirdDigit.exe
+C:\Users\Bari\Downloads\Desktop\03.OperatorsAndExpressions\05.ThirdDigit\obj\Debug\05.ThirdDigit.pdb

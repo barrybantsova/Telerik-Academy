@@ -1,0 +1,7 @@
+C:\Users\Bari\Downloads\Desktop\04.ConsoleInputOutput\09.FibonachiNumbers\bin\Debug\09.FibonachiNumbers.exe.config
+C:\Users\Bari\Downloads\Desktop\ТELERIK\C#\04.ConsoleInputOutput\09.FibonachiNumbers\bin\Debug\09.FibonachiNumbers.exe.config
+C:\Users\Bari\Downloads\Desktop\ТELERIK\C#\04.ConsoleInputOutput\09.FibonachiNumbers\bin\Debug\09.FibonachiNumbers.exe
+C:\Users\Bari\Downloads\Desktop\ТELERIK\C#\04.ConsoleInputOutput\09.FibonachiNumbers\bin\Debug\09.FibonachiNumbers.pdb
+C:\Users\Bari\Downloads\Desktop\ТELERIK\C#\04.ConsoleInputOutput\09.FibonachiNumbers\obj\Debug\09.FibonachiNumbers.csprojResolveAssemblyReference.cache
+C:\Users\Bari\Downloads\Desktop\ТELERIK\C#\04.ConsoleInputOutput\09.FibonachiNumbers\obj\Debug\09.FibonachiNumbers.exe
+C:\Users\Bari\Downloads\Desktop\ТELERIK\C#\04.ConsoleInputOutput\09.FibonachiNumbers\obj\Debug\09.FibonachiNumbers.pdb

@@ -1,0 +1,6 @@
+C:\Users\Bari\Downloads\Desktop\05.ConditonalStatemants\02.BonusScore\bin\Debug\02.BonusScore.exe.config
+C:\Users\Bari\Downloads\Desktop\05.ConditonalStatemants\02.BonusScore\bin\Debug\02.BonusScore.exe
+C:\Users\Bari\Downloads\Desktop\05.ConditonalStatemants\02.BonusScore\bin\Debug\02.BonusScore.pdb
+C:\Users\Bari\Downloads\Desktop\05.ConditonalStatemants\02.BonusScore\obj\Debug\02.BonusScore.csprojResolveAssemblyReference.cache
+C:\Users\Bari\Downloads\Desktop\05.ConditonalStatemants\02.BonusScore\obj\Debug\02.BonusScore.exe
+C:\Users\Bari\Downloads\Desktop\05.ConditonalStatemants\02.BonusScore\obj\Debug\02.BonusScore.pdb

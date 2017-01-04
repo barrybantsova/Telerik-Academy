@@ -1,0 +1,10 @@
+C:\Users\Bari\Downloads\Desktop\03.OperatorsAndExpressions\07.PointInCyrcle\bin\Debug\07.PointInCyrcle.exe.config
+C:\Users\Bari\Downloads\Desktop\03.OperatorsAndExpressions\07.PointInCyrcle\bin\Debug\07.PointInCyrcle.exe
+C:\Users\Bari\Downloads\Desktop\03.OperatorsAndExpressions\07.PointInCyrcle\bin\Debug\07.PointInCyrcle.pdb
+C:\Users\Bari\Downloads\Desktop\03.OperatorsAndExpressions\07.PointInCyrcle\obj\Debug\07.PointInCyrcle.exe
+C:\Users\Bari\Downloads\Desktop\03.OperatorsAndExpressions\07.PointInCyrcle\obj\Debug\07.PointInCyrcle.pdb
+C:\Users\Bari\Downloads\Desktop\ТELERIK\C#\03.OperatorsAndExpressions\07.PointInCyrcle\bin\Debug\07.PointInCyrcle.exe.config
+C:\Users\Bari\Downloads\Desktop\ТELERIK\C#\03.OperatorsAndExpressions\07.PointInCyrcle\obj\Debug\07.PointInCyrcle.exe
+C:\Users\Bari\Downloads\Desktop\ТELERIK\C#\03.OperatorsAndExpressions\07.PointInCyrcle\obj\Debug\07.PointInCyrcle.pdb
+C:\Users\Bari\Downloads\Desktop\ТELERIK\C#\03.OperatorsAndExpressions\07.PointInCyrcle\bin\Debug\07.PointInCyrcle.exe
+C:\Users\Bari\Downloads\Desktop\ТELERIK\C#\03.OperatorsAndExpressions\07.PointInCyrcle\bin\Debug\07.PointInCyrcle.pdb

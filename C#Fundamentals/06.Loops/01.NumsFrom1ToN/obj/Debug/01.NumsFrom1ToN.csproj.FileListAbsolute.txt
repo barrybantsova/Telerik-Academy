@@ -1,0 +1,6 @@
+C:\Users\Bari\Downloads\Desktop\05.Loops\01.NumsFrom1ToN\bin\Debug\01.NumsFrom1ToN.exe.config
+C:\Users\Bari\Downloads\Desktop\05.Loops\01.NumsFrom1ToN\bin\Debug\01.NumsFrom1ToN.exe
+C:\Users\Bari\Downloads\Desktop\05.Loops\01.NumsFrom1ToN\bin\Debug\01.NumsFrom1ToN.pdb
+C:\Users\Bari\Downloads\Desktop\05.Loops\01.NumsFrom1ToN\obj\Debug\01.NumsFrom1ToN.csprojResolveAssemblyReference.cache
+C:\Users\Bari\Downloads\Desktop\05.Loops\01.NumsFrom1ToN\obj\Debug\01.NumsFrom1ToN.exe
+C:\Users\Bari\Downloads\Desktop\05.Loops\01.NumsFrom1ToN\obj\Debug\01.NumsFrom1ToN.pdb

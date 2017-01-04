@@ -1,0 +1,5 @@
+C:\Users\Bari\Downloads\Desktop\Solution1\04.PrintSewuence\bin\Debug\04.PrintSewuence.exe.config
+C:\Users\Bari\Downloads\Desktop\Solution1\04.PrintSewuence\bin\Debug\04.PrintSewuence.exe
+C:\Users\Bari\Downloads\Desktop\Solution1\04.PrintSewuence\bin\Debug\04.PrintSewuence.pdb
+C:\Users\Bari\Downloads\Desktop\Solution1\04.PrintSewuence\obj\Debug\04.PrintSewuence.exe
+C:\Users\Bari\Downloads\Desktop\Solution1\04.PrintSewuence\obj\Debug\04.PrintSewuence.pdb

@@ -1,0 +1,9 @@
+C:\Users\Bari\Downloads\Desktop\04.ConsoleInputOutput\01.SumOf3Nums\bin\Debug\01.SumOf3Nums.exe.config
+C:\Users\Bari\Downloads\Desktop\04.ConsoleInputOutput\01.SumOf3Nums\bin\Debug\01.SumOf3Nums.exe
+C:\Users\Bari\Downloads\Desktop\04.ConsoleInputOutput\01.SumOf3Nums\bin\Debug\01.SumOf3Nums.pdb
+C:\Users\Bari\Downloads\Desktop\04.ConsoleInputOutput\01.SumOf3Nums\obj\Debug\01.SumOf3Nums.csprojResolveAssemblyReference.cache
+C:\Users\Bari\Downloads\Desktop\04.ConsoleInputOutput\01.SumOf3Nums\obj\Debug\01.SumOf3Nums.exe
+C:\Users\Bari\Downloads\Desktop\04.ConsoleInputOutput\01.SumOf3Nums\obj\Debug\01.SumOf3Nums.pdb
+C:\Users\Bari\Downloads\Desktop\ТELERIK\C#\04.ConsoleInputOutput\01.SumOf3Nums\bin\Debug\01.SumOf3Nums.exe.config
+C:\Users\Bari\Downloads\Desktop\ТELERIK\C#\04.ConsoleInputOutput\01.SumOf3Nums\obj\Debug\01.SumOf3Nums.exe
+C:\Users\Bari\Downloads\Desktop\ТELERIK\C#\04.ConsoleInputOutput\01.SumOf3Nums\obj\Debug\01.SumOf3Nums.pdb

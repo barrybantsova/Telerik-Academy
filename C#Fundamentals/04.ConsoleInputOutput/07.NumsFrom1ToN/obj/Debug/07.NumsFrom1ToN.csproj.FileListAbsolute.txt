@@ -1,0 +1,5 @@
+C:\Users\Bari\Downloads\Desktop\04.ConsoleInputOutput\07.NumsFrom1ToN\bin\Debug\07.NumsFrom1ToN.exe.config
+C:\Users\Bari\Downloads\Desktop\04.ConsoleInputOutput\07.NumsFrom1ToN\bin\Debug\07.NumsFrom1ToN.exe
+C:\Users\Bari\Downloads\Desktop\04.ConsoleInputOutput\07.NumsFrom1ToN\bin\Debug\07.NumsFrom1ToN.pdb
+C:\Users\Bari\Downloads\Desktop\04.ConsoleInputOutput\07.NumsFrom1ToN\obj\Debug\07.NumsFrom1ToN.exe
+C:\Users\Bari\Downloads\Desktop\04.ConsoleInputOutput\07.NumsFrom1ToN\obj\Debug\07.NumsFrom1ToN.pdb

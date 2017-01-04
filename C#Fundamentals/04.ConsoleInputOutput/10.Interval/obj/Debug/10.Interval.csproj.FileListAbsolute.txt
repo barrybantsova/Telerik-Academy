@@ -1,0 +1,5 @@
+C:\Users\Bari\Downloads\Desktop\ТELERIK\C#\04.ConsoleInputOutput\10.Interval\bin\Debug\10.Interval.exe.config
+C:\Users\Bari\Downloads\Desktop\ТELERIK\C#\04.ConsoleInputOutput\10.Interval\bin\Debug\10.Interval.exe
+C:\Users\Bari\Downloads\Desktop\ТELERIK\C#\04.ConsoleInputOutput\10.Interval\bin\Debug\10.Interval.pdb
+C:\Users\Bari\Downloads\Desktop\ТELERIK\C#\04.ConsoleInputOutput\10.Interval\obj\Debug\10.Interval.exe
+C:\Users\Bari\Downloads\Desktop\ТELERIK\C#\04.ConsoleInputOutput\10.Interval\obj\Debug\10.Interval.pdb

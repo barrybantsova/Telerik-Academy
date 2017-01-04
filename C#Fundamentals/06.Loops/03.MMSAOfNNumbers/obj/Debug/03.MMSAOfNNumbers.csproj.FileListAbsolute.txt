@@ -1,0 +1,6 @@
+C:\Users\Bari\Downloads\Desktop\05.Loops\03.MMSAOfNNumbers\bin\Debug\03.MMSAOfNNumbers.exe.config
+C:\Users\Bari\Downloads\Desktop\05.Loops\03.MMSAOfNNumbers\bin\Debug\03.MMSAOfNNumbers.exe
+C:\Users\Bari\Downloads\Desktop\05.Loops\03.MMSAOfNNumbers\bin\Debug\03.MMSAOfNNumbers.pdb
+C:\Users\Bari\Downloads\Desktop\05.Loops\03.MMSAOfNNumbers\obj\Debug\03.MMSAOfNNumbers.exe
+C:\Users\Bari\Downloads\Desktop\05.Loops\03.MMSAOfNNumbers\obj\Debug\03.MMSAOfNNumbers.pdb
+C:\Users\Bari\Downloads\Desktop\05.Loops\03.MMSAOfNNumbers\obj\Debug\03.MMSAOfNNumbers.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+C:\Users\Bari\Downloads\Desktop\05.ConditonalStatemants\06.BiggestOf5\bin\Debug\06.BiggestOf5.exe.config
+C:\Users\Bari\Downloads\Desktop\05.ConditonalStatemants\06.BiggestOf5\bin\Debug\06.BiggestOf5.exe
+C:\Users\Bari\Downloads\Desktop\05.ConditonalStatemants\06.BiggestOf5\bin\Debug\06.BiggestOf5.pdb
+C:\Users\Bari\Downloads\Desktop\05.ConditonalStatemants\06.BiggestOf5\obj\Debug\06.BiggestOf5.exe
+C:\Users\Bari\Downloads\Desktop\05.ConditonalStatemants\06.BiggestOf5\obj\Debug\06.BiggestOf5.pdb
+C:\Users\Bari\Downloads\Desktop\05.ConditonalStatemants\06.BiggestOf5\obj\Debug\06.BiggestOf5.csprojResolveAssemblyReference.cache

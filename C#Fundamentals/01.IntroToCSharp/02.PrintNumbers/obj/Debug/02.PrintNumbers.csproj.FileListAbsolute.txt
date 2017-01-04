@@ -1,0 +1,6 @@
+C:\Users\Bari\Downloads\Desktop\Solution1\02.PrintNumbers\bin\Debug\02.PrintNumbers.exe.config
+C:\Users\Bari\Downloads\Desktop\Solution1\02.PrintNumbers\bin\Debug\02.PrintNumbers.exe
+C:\Users\Bari\Downloads\Desktop\Solution1\02.PrintNumbers\bin\Debug\02.PrintNumbers.pdb
+C:\Users\Bari\Downloads\Desktop\Solution1\02.PrintNumbers\obj\Debug\02.PrintNumbers.csprojResolveAssemblyReference.cache
+C:\Users\Bari\Downloads\Desktop\Solution1\02.PrintNumbers\obj\Debug\02.PrintNumbers.exe
+C:\Users\Bari\Downloads\Desktop\Solution1\02.PrintNumbers\obj\Debug\02.PrintNumbers.pdb

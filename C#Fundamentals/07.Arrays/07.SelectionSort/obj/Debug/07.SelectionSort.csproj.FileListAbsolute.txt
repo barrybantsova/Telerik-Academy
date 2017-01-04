@@ -1,0 +1,7 @@
+C:\Users\Bari\Downloads\Desktop\06.Arrays\07.SelectionSort\bin\Debug\07.SelectionSort.exe.config
+C:\Users\Bari\Downloads\Desktop\ТELERIK\C# Fundamentals\Homework\07.Arrays\07.SelectionSort\bin\Debug\07.SelectionSort.exe.config
+C:\Users\Bari\Downloads\Desktop\ТELERIK\C# Fundamentals\Homework\07.Arrays\07.SelectionSort\bin\Debug\07.SelectionSort.exe
+C:\Users\Bari\Downloads\Desktop\ТELERIK\C# Fundamentals\Homework\07.Arrays\07.SelectionSort\bin\Debug\07.SelectionSort.pdb
+C:\Users\Bari\Downloads\Desktop\ТELERIK\C# Fundamentals\Homework\07.Arrays\07.SelectionSort\obj\Debug\07.SelectionSort.csprojResolveAssemblyReference.cache
+C:\Users\Bari\Downloads\Desktop\ТELERIK\C# Fundamentals\Homework\07.Arrays\07.SelectionSort\obj\Debug\07.SelectionSort.exe
+C:\Users\Bari\Downloads\Desktop\ТELERIK\C# Fundamentals\Homework\07.Arrays\07.SelectionSort\obj\Debug\07.SelectionSort.pdb

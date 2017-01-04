@@ -1,0 +1,5 @@
+C:\Users\Bari\Downloads\Desktop\05.ConditonalStatemants\04.Multiplication sign\bin\Debug\04.Multiplication sign.exe.config
+C:\Users\Bari\Downloads\Desktop\05.ConditonalStatemants\04.Multiplication sign\bin\Debug\04.Multiplication sign.exe
+C:\Users\Bari\Downloads\Desktop\05.ConditonalStatemants\04.Multiplication sign\bin\Debug\04.Multiplication sign.pdb
+C:\Users\Bari\Downloads\Desktop\05.ConditonalStatemants\04.Multiplication sign\obj\Debug\04.Multiplication sign.exe
+C:\Users\Bari\Downloads\Desktop\05.ConditonalStatemants\04.Multiplication sign\obj\Debug\04.Multiplication sign.pdb

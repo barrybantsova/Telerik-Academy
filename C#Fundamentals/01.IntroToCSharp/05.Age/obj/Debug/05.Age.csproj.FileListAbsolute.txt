@@ -1,0 +1,5 @@
+C:\Users\Bari\Downloads\Desktop\Solution1\05.Age\bin\Debug\05.Age.exe.config
+C:\Users\Bari\Downloads\Desktop\Solution1\05.Age\bin\Debug\05.Age.exe
+C:\Users\Bari\Downloads\Desktop\Solution1\05.Age\bin\Debug\05.Age.pdb
+C:\Users\Bari\Downloads\Desktop\Solution1\05.Age\obj\Debug\05.Age.exe
+C:\Users\Bari\Downloads\Desktop\Solution1\05.Age\obj\Debug\05.Age.pdb

@@ -1,0 +1,6 @@
+C:\Users\Bari\Downloads\Desktop\05.Loops\06.CalculateAgain!\bin\Debug\06.CalculateAgain!.exe.config
+C:\Users\Bari\Downloads\Desktop\05.Loops\06.CalculateAgain!\bin\Debug\06.CalculateAgain!.exe
+C:\Users\Bari\Downloads\Desktop\05.Loops\06.CalculateAgain!\bin\Debug\06.CalculateAgain!.pdb
+C:\Users\Bari\Downloads\Desktop\05.Loops\06.CalculateAgain!\obj\Debug\06.CalculateAgain!.csprojResolveAssemblyReference.cache
+C:\Users\Bari\Downloads\Desktop\05.Loops\06.CalculateAgain!\obj\Debug\06.CalculateAgain!.exe
+C:\Users\Bari\Downloads\Desktop\05.Loops\06.CalculateAgain!\obj\Debug\06.CalculateAgain!.pdb

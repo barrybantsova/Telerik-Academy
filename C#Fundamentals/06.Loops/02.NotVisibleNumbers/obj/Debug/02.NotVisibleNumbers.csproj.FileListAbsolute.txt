@@ -1,0 +1,5 @@
+C:\Users\Bari\Downloads\Desktop\05.Loops\02.NotVisibleNumbers\bin\Debug\02.NotVisibleNumbers.exe.config
+C:\Users\Bari\Downloads\Desktop\05.Loops\02.NotVisibleNumbers\bin\Debug\02.NotVisibleNumbers.exe
+C:\Users\Bari\Downloads\Desktop\05.Loops\02.NotVisibleNumbers\bin\Debug\02.NotVisibleNumbers.pdb
+C:\Users\Bari\Downloads\Desktop\05.Loops\02.NotVisibleNumbers\obj\Debug\02.NotVisibleNumbers.exe
+C:\Users\Bari\Downloads\Desktop\05.Loops\02.NotVisibleNumbers\obj\Debug\02.NotVisibleNumbers.pdb

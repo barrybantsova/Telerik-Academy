@@ -1,0 +1,6 @@
+C:\Users\Bari\Downloads\Desktop\04.ConsoleInputOutput\08.SumOfnNums\bin\Debug\08.SumOfnNums.exe.config
+C:\Users\Bari\Downloads\Desktop\04.ConsoleInputOutput\08.SumOfnNums\bin\Debug\08.SumOfnNums.exe
+C:\Users\Bari\Downloads\Desktop\04.ConsoleInputOutput\08.SumOfnNums\bin\Debug\08.SumOfnNums.pdb
+C:\Users\Bari\Downloads\Desktop\04.ConsoleInputOutput\08.SumOfnNums\obj\Debug\08.SumOfnNums.csprojResolveAssemblyReference.cache
+C:\Users\Bari\Downloads\Desktop\04.ConsoleInputOutput\08.SumOfnNums\obj\Debug\08.SumOfnNums.exe
+C:\Users\Bari\Downloads\Desktop\04.ConsoleInputOutput\08.SumOfnNums\obj\Debug\08.SumOfnNums.pdb

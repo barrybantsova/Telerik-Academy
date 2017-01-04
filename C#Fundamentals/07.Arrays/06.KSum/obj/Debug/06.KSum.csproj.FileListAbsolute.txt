@@ -1,0 +1,6 @@
+C:\Users\Bari\Downloads\Desktop\06.Arrays\06.KSum\bin\Debug\06.KSum.exe.config
+C:\Users\Bari\Downloads\Desktop\06.Arrays\06.KSum\bin\Debug\06.KSum.exe
+C:\Users\Bari\Downloads\Desktop\06.Arrays\06.KSum\bin\Debug\06.KSum.pdb
+C:\Users\Bari\Downloads\Desktop\06.Arrays\06.KSum\obj\Debug\06.KSum.csprojResolveAssemblyReference.cache
+C:\Users\Bari\Downloads\Desktop\06.Arrays\06.KSum\obj\Debug\06.KSum.exe
+C:\Users\Bari\Downloads\Desktop\06.Arrays\06.KSum\obj\Debug\06.KSum.pdb

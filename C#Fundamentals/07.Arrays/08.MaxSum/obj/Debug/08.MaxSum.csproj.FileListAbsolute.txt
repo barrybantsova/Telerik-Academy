@@ -1,0 +1,5 @@
+C:\Users\Bari\Downloads\Desktop\ТELERIK\C# Fundamentals\Homework\07.Arrays\08.MaxSum\bin\Debug\08.MaxSum.exe.config
+C:\Users\Bari\Downloads\Desktop\ТELERIK\C# Fundamentals\Homework\07.Arrays\08.MaxSum\bin\Debug\08.MaxSum.exe
+C:\Users\Bari\Downloads\Desktop\ТELERIK\C# Fundamentals\Homework\07.Arrays\08.MaxSum\bin\Debug\08.MaxSum.pdb
+C:\Users\Bari\Downloads\Desktop\ТELERIK\C# Fundamentals\Homework\07.Arrays\08.MaxSum\obj\Debug\08.MaxSum.exe
+C:\Users\Bari\Downloads\Desktop\ТELERIK\C# Fundamentals\Homework\07.Arrays\08.MaxSum\obj\Debug\08.MaxSum.pdb

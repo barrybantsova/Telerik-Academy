@@ -1,0 +1,5 @@
+C:\Users\Bari\Downloads\Desktop\Solution1\03.SquareRoot\bin\Debug\03.SquareRoot.exe.config
+C:\Users\Bari\Downloads\Desktop\Solution1\03.SquareRoot\bin\Debug\03.SquareRoot.exe
+C:\Users\Bari\Downloads\Desktop\Solution1\03.SquareRoot\bin\Debug\03.SquareRoot.pdb
+C:\Users\Bari\Downloads\Desktop\Solution1\03.SquareRoot\obj\Debug\03.SquareRoot.exe
+C:\Users\Bari\Downloads\Desktop\Solution1\03.SquareRoot\obj\Debug\03.SquareRoot.pdb

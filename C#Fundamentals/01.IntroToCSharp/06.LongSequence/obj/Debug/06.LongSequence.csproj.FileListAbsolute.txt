@@ -1,0 +1,5 @@
+C:\Users\Bari\Downloads\Desktop\Solution1\06.LongSequence\bin\Debug\06.LongSequence.exe.config
+C:\Users\Bari\Downloads\Desktop\Solution1\06.LongSequence\bin\Debug\06.LongSequence.exe
+C:\Users\Bari\Downloads\Desktop\Solution1\06.LongSequence\bin\Debug\06.LongSequence.pdb
+C:\Users\Bari\Downloads\Desktop\Solution1\06.LongSequence\obj\Debug\06.LongSequence.exe
+C:\Users\Bari\Downloads\Desktop\Solution1\06.LongSequence\obj\Debug\06.LongSequence.pdb

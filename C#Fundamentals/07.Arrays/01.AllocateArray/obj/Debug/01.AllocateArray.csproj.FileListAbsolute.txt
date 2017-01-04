@@ -1,0 +1,9 @@
+C:\Users\Bari\Downloads\Desktop\06.Arrays\01.AllocateArray\bin\Debug\01.AllocateArray.exe.config
+C:\Users\Bari\Downloads\Desktop\06.Arrays\01.AllocateArray\bin\Debug\01.AllocateArray.exe
+C:\Users\Bari\Downloads\Desktop\06.Arrays\01.AllocateArray\bin\Debug\01.AllocateArray.pdb
+C:\Users\Bari\Downloads\Desktop\06.Arrays\01.AllocateArray\obj\Debug\01.AllocateArray.csprojResolveAssemblyReference.cache
+C:\Users\Bari\Downloads\Desktop\06.Arrays\01.AllocateArray\obj\Debug\01.AllocateArray.exe
+C:\Users\Bari\Downloads\Desktop\06.Arrays\01.AllocateArray\obj\Debug\01.AllocateArray.pdb
+C:\Users\Bari\Downloads\Desktop\ТELERIK\C# Fundamentals\Homework\07.Arrays\01.AllocateArray\bin\Debug\01.AllocateArray.exe.config
+C:\Users\Bari\Downloads\Desktop\ТELERIK\C# Fundamentals\Homework\07.Arrays\01.AllocateArray\obj\Debug\01.AllocateArray.exe
+C:\Users\Bari\Downloads\Desktop\ТELERIK\C# Fundamentals\Homework\07.Arrays\01.AllocateArray\obj\Debug\01.AllocateArray.pdb

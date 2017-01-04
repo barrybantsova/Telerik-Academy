@@ -1,0 +1,6 @@
+C:\Users\Bari\Downloads\Desktop\04.ConsoleInputOutput\04.ComparingNums\bin\Debug\04.ComparingNums.exe.config
+C:\Users\Bari\Downloads\Desktop\04.ConsoleInputOutput\04.ComparingNums\bin\Debug\04.ComparingNums.exe
+C:\Users\Bari\Downloads\Desktop\04.ConsoleInputOutput\04.ComparingNums\bin\Debug\04.ComparingNums.pdb
+C:\Users\Bari\Downloads\Desktop\04.ConsoleInputOutput\04.ComparingNums\obj\Debug\04.ComparingNums.csprojResolveAssemblyReference.cache
+C:\Users\Bari\Downloads\Desktop\04.ConsoleInputOutput\04.ComparingNums\obj\Debug\04.ComparingNums.exe
+C:\Users\Bari\Downloads\Desktop\04.ConsoleInputOutput\04.ComparingNums\obj\Debug\04.ComparingNums.pdb

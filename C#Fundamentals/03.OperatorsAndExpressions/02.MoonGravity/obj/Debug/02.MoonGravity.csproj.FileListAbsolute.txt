@@ -1,0 +1,6 @@
+C:\Users\Bari\Downloads\Desktop\03.OperatorsAndExpressions\02.MoonGravity\bin\Debug\02.MoonGravity.exe.config
+C:\Users\Bari\Downloads\Desktop\03.OperatorsAndExpressions\02.MoonGravity\obj\Debug\02.MoonGravity.csprojResolveAssemblyReference.cache
+C:\Users\Bari\Downloads\Desktop\03.OperatorsAndExpressions\02.MoonGravity\bin\Debug\02.MoonGravity.exe
+C:\Users\Bari\Downloads\Desktop\03.OperatorsAndExpressions\02.MoonGravity\bin\Debug\02.MoonGravity.pdb
+C:\Users\Bari\Downloads\Desktop\03.OperatorsAndExpressions\02.MoonGravity\obj\Debug\02.MoonGravity.exe
+C:\Users\Bari\Downloads\Desktop\03.OperatorsAndExpressions\02.MoonGravity\obj\Debug\02.MoonGravity.pdb

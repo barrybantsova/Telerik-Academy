@@ -1,0 +1,6 @@
+C:\Users\Bari\Downloads\Desktop\05.Loops\04.PrintADeck\bin\Debug\04.PrintADeck.exe.config
+C:\Users\Bari\Downloads\Desktop\05.Loops\04.PrintADeck\bin\Debug\04.PrintADeck.exe
+C:\Users\Bari\Downloads\Desktop\05.Loops\04.PrintADeck\bin\Debug\04.PrintADeck.pdb
+C:\Users\Bari\Downloads\Desktop\05.Loops\04.PrintADeck\obj\Debug\04.PrintADeck.csprojResolveAssemblyReference.cache
+C:\Users\Bari\Downloads\Desktop\05.Loops\04.PrintADeck\obj\Debug\04.PrintADeck.exe
+C:\Users\Bari\Downloads\Desktop\05.Loops\04.PrintADeck\obj\Debug\04.PrintADeck.pdb
