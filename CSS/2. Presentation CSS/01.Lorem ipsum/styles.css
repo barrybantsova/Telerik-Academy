@@ -1,0 +1,12 @@
+.blue{
+  color: #48B3FF;
+  font-family: Consolas
+}
+.edw{
+  font-family: Edwardian Script ITC;
+  font-size: 40px
+}
+p:first-line {
+  font-weight:bold;
+  font-size:20px
+}

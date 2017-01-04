@@ -1,0 +1,5 @@
+C:\Users\Bari\Downloads\Desktop\05. Using-Classes-and-Objects\05.Triangle surface by three sides\bin\Debug\05.Triangle surface by three sides.exe.config
+C:\Users\Bari\Downloads\Desktop\05. Using-Classes-and-Objects\05.Triangle surface by three sides\bin\Debug\05.Triangle surface by three sides.exe
+C:\Users\Bari\Downloads\Desktop\05. Using-Classes-and-Objects\05.Triangle surface by three sides\bin\Debug\05.Triangle surface by three sides.pdb
+C:\Users\Bari\Downloads\Desktop\05. Using-Classes-and-Objects\05.Triangle surface by three sides\obj\Debug\05.Triangle surface by three sides.exe
+C:\Users\Bari\Downloads\Desktop\05. Using-Classes-and-Objects\05.Triangle surface by three sides\obj\Debug\05.Triangle surface by three sides.pdb

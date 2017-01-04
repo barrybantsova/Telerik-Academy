@@ -1,0 +1,5 @@
+C:\Users\Bari\Downloads\Desktop\05. Using-Classes-and-Objects\04.Triangle surface by side and altitude\bin\Debug\04.Triangle surface by side and altitude.exe.config
+C:\Users\Bari\Downloads\Desktop\05. Using-Classes-and-Objects\04.Triangle surface by side and altitude\bin\Debug\04.Triangle surface by side and altitude.exe
+C:\Users\Bari\Downloads\Desktop\05. Using-Classes-and-Objects\04.Triangle surface by side and altitude\bin\Debug\04.Triangle surface by side and altitude.pdb
+C:\Users\Bari\Downloads\Desktop\05. Using-Classes-and-Objects\04.Triangle surface by side and altitude\obj\Debug\04.Triangle surface by side and altitude.exe
+C:\Users\Bari\Downloads\Desktop\05. Using-Classes-and-Objects\04.Triangle surface by side and altitude\obj\Debug\04.Triangle surface by side and altitude.pdb

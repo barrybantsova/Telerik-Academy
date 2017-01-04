@@ -1,0 +1,5 @@
+C:\Users\Bari\Downloads\Desktop\03.Methods\06.First larger than neighbours\bin\Debug\06.First larger than neighbours.exe.config
+C:\Users\Bari\Downloads\Desktop\03.Methods\06.First larger than neighbours\bin\Debug\06.First larger than neighbours.exe
+C:\Users\Bari\Downloads\Desktop\03.Methods\06.First larger than neighbours\bin\Debug\06.First larger than neighbours.pdb
+C:\Users\Bari\Downloads\Desktop\03.Methods\06.First larger than neighbours\obj\Debug\06.First larger than neighbours.exe
+C:\Users\Bari\Downloads\Desktop\03.Methods\06.First larger than neighbours\obj\Debug\06.First larger than neighbours.pdb

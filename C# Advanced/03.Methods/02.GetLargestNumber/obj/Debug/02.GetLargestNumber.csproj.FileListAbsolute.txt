@@ -1,0 +1,6 @@
+C:\Users\Bari\Downloads\Desktop\03.Methods\02.GetLargestNumber\bin\Debug\02.GetLargestNumber.exe.config
+C:\Users\Bari\Downloads\Desktop\03.Methods\02.GetLargestNumber\bin\Debug\02.GetLargestNumber.exe
+C:\Users\Bari\Downloads\Desktop\03.Methods\02.GetLargestNumber\bin\Debug\02.GetLargestNumber.pdb
+C:\Users\Bari\Downloads\Desktop\03.Methods\02.GetLargestNumber\obj\Debug\02.GetLargestNumber.csprojResolveAssemblyReference.cache
+C:\Users\Bari\Downloads\Desktop\03.Methods\02.GetLargestNumber\obj\Debug\02.GetLargestNumber.exe
+C:\Users\Bari\Downloads\Desktop\03.Methods\02.GetLargestNumber\obj\Debug\02.GetLargestNumber.pdb
